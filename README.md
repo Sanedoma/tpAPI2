@@ -113,8 +113,6 @@ Photos pour l'album 2 : [ ... ]
 ---
 
 ### **Auteurs**
-- Réalisé par **[Ton Nom]** dans le cadre du TP 2 pour le module **"Concevoir une API en JavaScript"**.
+- Réalisé par Ndiaye Ousmane dans le cadre du TP 2 pour le module **"Concevoir une API en JavaScript"**.
 
 ---
-
-Ce `README.md` contient toutes les informations nécessaires pour comprendre, installer, et exécuter le projet. N'hésite pas à me dire si tu souhaites ajouter ou modifier quelque chose ! 😊
